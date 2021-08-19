@@ -7,10 +7,11 @@ This YouTube link is the "Golf Swing Coaching System" that I developed for univ 
 If you are interested, please click the link below.:two_hearts:
 <br><br><br>
 
-**more information ..**
-* https://hazel-u.github.io/
-* https://h-sseung.tistory.com/
+<div align="center">
+https://hazel-u.github.io/<br> 
+https://h-sseung.tistory.com/<br>
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeseung0124)](https://solved.ac/hyeseung0124/)
 ![Hazel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazel-u&show_icons=true&theme=onedark)
+</div>
