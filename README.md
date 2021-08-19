@@ -1,10 +1,10 @@
 ### Hi there! 👋
-I'm a student studying to be a backend developer.<br>
+I'm a student studying to be a backend developer.:woman:<br>
 These days, I'm studying some development skills and solving various problem to develop me.
 
 https://www.youtube.com/watch?v=URYPTufUtDo<br>
 This YouTube link is the "Golf Swing Coaching System" that I developed for univ graduation.<br>
-If you are interested, please click the link below.
+If you are interested, please click the link below.:two_hearts:
 <br><br><br>
 
 **more information ..**
