@@ -4,7 +4,7 @@ These days, I'm studying some development skills and solving various problem to 
 
 https://www.youtube.com/watch?v=URYPTufUtDo<br>
 This YouTube link is the "Golf Swing Coaching System" that I developed for univ graduation.<br>
-If you are interested, please click the link below.:two_hearts:
+If you are interested, please click the link.:two_hearts:
 <br><br><br>
 
 <div align="center">
