@@ -1,4 +1,4 @@
-# Hi! I'm Hazel 👋
+# Hyeseung & Hazel 🌕
 
 ## Stack ⚙️
 <div align=center>
