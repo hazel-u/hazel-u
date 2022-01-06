@@ -24,9 +24,9 @@
 </div>
 
 ## Solved.ac 💻
-<div align=center>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeseung0124)](https://solved.ac/hyeseung0124/)
-</div>
+
 
 ## GitHub stats 📈
 <div align=center>
