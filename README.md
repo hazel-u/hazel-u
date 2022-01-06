@@ -23,7 +23,12 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">
 </div>
 
+## Solved.ac 💻
+<div align=center>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeseung0124)](https://solved.ac/hyeseung0124/)
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeseung0124)](https://solved.ac/hyeseung0124/)
-![Hazel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazel-u&show_icons=true&theme=onedark)
+##GitHub stats 📈
+<div align=center>
+  ![Hazel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazel-u&show_icons=true&theme=onedark)
 </div>
