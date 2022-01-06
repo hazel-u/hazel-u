@@ -30,5 +30,5 @@
 ## GitHub stats 📈
 ![Hazel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazel-u&show_icons=true&theme=onedark)
 
-## Most Used Languages
+## Most Used Languages 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazel-u&theme=onedark)
