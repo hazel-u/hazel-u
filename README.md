@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">
 </div>
 
-## Educations 👩🏻‍💻
+## Educations 📕
 * 인천대학교 임베디드시스템공학과 (2016.03 ~ 2021.02)
 * 삼성 청년 SW 아카데미 6기 (2021.07 ~ )
 
