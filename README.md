@@ -20,6 +20,8 @@
 * 2020 한이음 공모전 입선
 * 2020 인천대를 빛낸, 인천대 학생 표창상
 * 2021 삼성 청년 SW 아카데미 1학기 성적 우수상(1등)
+* 2022 삼성 청년 SW 아카데미 공통프로젝트 반 1등
+* 2022 삼성 청년 SW 아카데이 공통프로젝트 UCC 전국 1등
 
 ## Solved.ac 💻
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeseung0124)](https://solved.ac/hyeseung0124/)
