@@ -22,7 +22,7 @@
 * 2021 삼성 청년 SW 아카데미 1학기 성적 우수상(1등)
 * 2022 삼성 청년 SW 아카데미 공통프로젝트 반 1등
 * 2022 삼성 청년 SW 아카데이 공통프로젝트 UCC 전국 1등
-* 2022 삼성 청년 SW 아카데미 삼성전자 MX사업부 연계 프로젝트 3
+* 2022 삼성 청년 SW 아카데미 삼성전자 MX사업부 연계 프로젝트 3등
 
 ## Solved.ac 💻
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeseung0124)](https://solved.ac/hyeseung0124/)
