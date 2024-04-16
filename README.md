@@ -1,4 +1,7 @@
 # Hazel (^._.^)ﾉ
+Incheon National University (2016.03 ~ 2021.02)
+Samsung Software Academy For Youth (2021.07 ~ 2022.06)
+CJ ONS - Data Enginner & CMS(Campaign Management System) Management Engineer
 
 ## Stack ⚙️
 <div align=center>
