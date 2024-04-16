@@ -1,7 +1,7 @@
 # Hazel (^._.^)ﾉ
 Incheon National University - Embedded Engineering (2016.03 ~ 2021.02) <br>
 Samsung Software Academy For Youth (2021.07 ~ 2022.06) <br>
-CJ ONS - Data Enginner & CMS(Campaign Management System) Management Engineer (2022.07 ~ )<br>
+CJ OliveNetworks - Data Enginner & CMS(Campaign Management System) Management Engineer (2022.07 ~ )<br>
 
 ## Stack ⚙️
 <div align=center>
